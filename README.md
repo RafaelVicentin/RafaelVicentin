@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I'm a recently Mechanical Engineer graduated by USP pursuing a career in **Data Science**.
+- Currently learning Microsoft Azure fundamentals and Machine Learning
+- I have familiarity with Python, SQL and ETL services.
+
+📫 Send me an [e-mail](mailto:rafael.alves.vicentin@gmail.com)
+or follow me on [LinkedIn](https://www.linkedin.com/in/rafael-vicentin/)
 <!--
 **RafaelVicentin/RafaelVicentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
