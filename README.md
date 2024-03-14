@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - I'm a recently Mechanical Engineer graduated by USP pursuing a career in **Data Science**.
+- Enrolled in MBA in Data Science - ICMC-USP
 - Currently learning Microsoft Azure fundamentals and Machine Learning
 - I have familiarity with Python, SQL and ETL services.
 
