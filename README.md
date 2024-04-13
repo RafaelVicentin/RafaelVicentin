@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- I'm a recently Mechanical Engineer graduated by USP pursuing a career in **Data Science**.
+- I'm a recently Mechanical Engineer graduated by USP passioned for **Data Science**.
+- Working as a Data Scientist at BR Media Group
 - Enrolled in MBA in Data Science - ICMC-USP
-- Currently learning Microsoft Azure fundamentals and Machine Learning
+- Currently learning AWS Cloud Services, Machine Learning and web-scrapping techniques
 - I have familiarity with Python, SQL and ETL services.
 
 📫 Send me an [e-mail](mailto:rafael.alves.vicentin@gmail.com)
