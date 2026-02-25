@@ -1,24 +1,9 @@
 ### Hi there 👋
 
-- I'm a recently Mechanical Engineer graduated by USP passioned for **Data Science**.
-- Working as a Data Scientist at BR Media Group
-- Enrolled in MBA in Data Science - ICMC-USP
-- Currently learning AWS Cloud Services, Machine Learning and web-scrapping techniques
-- I have familiarity with Python, SQL and ETL services.
+AI Engineer focused on Generative AI, Machine Learning, and healthcare innovation.
+- Building production-ready AI systems with LLMs, NLP, and AWS
+- Experienced in scalable ML pipelines and multi-agent architectures
+- Passionate about applying AI to clinical NLP, diagnostics, and decision-support systems
 
-📫 Send me an [e-mail](mailto:rafael.alves.vicentin@gmail.com)
-or follow me on [LinkedIn](https://www.linkedin.com/in/rafael-vicentin/)
-<!--
-**RafaelVicentin/RafaelVicentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at [e-mail](mailto:rafael.alves.vicentin@gmail.com)
+or connect on [LinkedIn](https://www.linkedin.com/in/rafael-vicentin/)
